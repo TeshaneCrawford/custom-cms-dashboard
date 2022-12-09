@@ -2,7 +2,7 @@
 
 <template>
   <div>
-    Page: Home Page
+    <NavBar />
   </div>
 </template>
 
