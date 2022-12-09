@@ -1,0 +1,32 @@
+/* Css Variables */
+:root {
+    --color-primary: hsla(239, 94%, 19%, 1);
+    --color-secondary: #0f0;
+    --color-tertiary: #00f;
+
+    /* CSS HSL */
+    --star-command-blue: hsla(201, 100%, 36%, 1);
+    --blue-green: hsla(195, 100%, 39%, 1);
+    --pacific-blue: hsla(190, 100%, 42%, 1);
+    --sky-blue-crayola: hsla(190, 74%, 59%, 1);
+    --middle-blue: hsla(189, 75%, 75%, 1);
+    --blizzard-blue: hsla(190, 76%, 82%, 1);
+    --light-cyan: hsla(190, 77%, 88%, 1);
+
+    --color-primary-light: hsla(239, 94%, 19%, 1);
+    --color-secondary-light: #9f9;
+    --color-tertiary-light: #99f;
+
+    --color-primary-dark: hsla(214, 97%, 27%, 1);
+    --color-secondary-dark: #090;
+    --color-tertiary-dark: #009;
+
+    /* text color variables */
+    --davys-grey: hsla(0, 0%, 35%, 1);
+    --gray-web: hsla(0, 0%, 50%, 1);
+    --quick-silver: hsla(0, 0%, 65%, 1);
+    --light-gray: hsla(0, 0%, 80%, 1);
+    --cultured: hsla(0, 0%, 95%, 1);
+
+    /* background color variables */
+}
